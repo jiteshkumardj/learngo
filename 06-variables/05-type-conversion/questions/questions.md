@@ -23,8 +23,8 @@ fmt.Print(int(6.5))
 ```
 * 6.5
 * 65
-* 6
-* Compile-Time Error *CORRECT*
+* 6 *CORRECT*
+* Compile-Time Error 
 
 > Go can detect conversion errors at the compile-time
 
