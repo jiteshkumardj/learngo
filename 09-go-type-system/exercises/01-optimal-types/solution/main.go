@@ -32,9 +32,9 @@ func main() {
 	var lightSpeed uint32 = 670616629 // miles
 	fmt.Println("the speed of the light:", lightSpeed)
 
-	// angle of a circle
-	var angle float32 = 35.8
-	fmt.Println("angle of a circle:", angle)
+	// area of a circle
+	var area float32 = 35.8
+	fmt.Println("area of a circle:", angle)
 
 	var pi float64
 	pi = 3.141592653589793
