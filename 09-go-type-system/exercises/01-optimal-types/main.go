@@ -45,7 +45,7 @@ func main() {
 
 	// the speed of the light
 
-	// angle of a circle
+	// area of a circle
 
 	// PI number: 3.141592653589793
 }
